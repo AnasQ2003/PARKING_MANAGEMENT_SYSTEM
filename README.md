@@ -7,7 +7,7 @@
 ![Bahria University](https://img.shields.io/badge/Bahria_University-COAL_Lab-003087?style=for-the-badge)
 ![Semester](https://img.shields.io/badge/3rd_Semester-COAL_Project-success?style=for-the-badge)
 
-A fully featured, command-line **Smart Parking Management System** programmed in **16-bit Assembly Language (x86)** and designed to run on the **EMU8086** emulator. Developed as a 3rd Semester Computer Organization and Assembly Language (COAL) Lab project, the system automates vehicle parking logs, fee calculation, slot allocations, and record management without standard high-level language structures.
+A fully featured, command-line **Smart Parking Management System** programmed in **16-bit Assembly Language (x86)** and designed to run on the **EMU8086** emulator. Developed as Computer Organization and Assembly Language (COAL) project, the system automates vehicle parking logs, fee calculation, slot allocations, and record management without standard high-level language structures.
 
 </div>
 
@@ -140,7 +140,43 @@ This is an academic project. Feel free to fork it, extend it, or use it as a ref
 
 ---
 
+## 📄 License
+
+```
+MIT License
+
+Copyright (c) Parking Management System ---2026 AnasQ2003
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
+
+---
+
 ## 👨‍💻 Author
 
-**Anas Qayyum**
-- GitHub: [@AnasQ2003](https://github.com/AnasQ2003)
+**Anas Ahmed Qureshi.** — [@AnasQ2003](https://github.com/AnasQ2003)
+
+---
+
+<div align="center">
+  <p>Built with ❤️ by <strong>Anas</strong></p>
+  
+ <div align="center">
+
+Made with 🔥 and a lot of ☕
+
+**⭐ If you found this useful, please star the repository!**
+
+</div>
