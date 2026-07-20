@@ -1,11 +1,9 @@
-# 🚗 Smart Parking Management System — Assembly (Intel 8086)
-
 <div align="center">
+
+# 🚗 Smart Parking Management System — Assembly (Intel 8086)
 
 ![Assembly](https://img.shields.io/badge/Assembly-16--Bit_Intel_8086-red?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![EMU8086](https://img.shields.io/badge/Emulator-EMU8086-blue?style=for-the-badge)
-![Bahria University](https://img.shields.io/badge/Bahria_University-COAL_Lab-003087?style=for-the-badge)
-![Semester](https://img.shields.io/badge/3rd_Semester-COAL_Project-success?style=for-the-badge)
 
 A fully featured, command-line **Smart Parking Management System** programmed in **16-bit Assembly Language (x86)** and designed to run on the **EMU8086** emulator. Developed as Computer Organization and Assembly Language (COAL) project, the system automates vehicle parking logs, fee calculation, slot allocations, and record management without standard high-level language structures.
 
@@ -119,21 +117,6 @@ cd PARKING_MANAGEMENT_SYSTEM
 
 ---
 
-## 📚 Academic Context
-
-| Detail | Info |
-|---|---|
-| **University** | Bahria University, Karachi Campus |
-| **Department** | Department of Computer Science |
-| **Course** | Computer Organization & Assembly Language (CEL-324) |
-| **Semester** | 3rd Semester |
-| **Project Type** | COAL Lab Project |
-| **Course Instructor** | Ma'am Aisha Danish |
-| **Lab Engineer** | Ma'am Saba Naeem |
-| **Group Members** | M. Mohib, Hassan Ali Naqvi, Anas Ahmed Qureshi |
-
----
-
 ## 🤝 Contributing
 
 This is an academic project. Feel free to fork it, extend it, or use it as a reference for your own x86 Assembly projects.
@@ -145,7 +128,7 @@ This is an academic project. Feel free to fork it, extend it, or use it as a ref
 ```
 MIT License
 
-Copyright (c) Parking Management System ---2026 AnasQ2003
+Copyright (c) Parking Management System --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
